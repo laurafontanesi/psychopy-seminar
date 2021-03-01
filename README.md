@@ -7,7 +7,7 @@ New WPAs and readings will be uploaded weekly, so check back regularly.
 
 | Week | Date | Topic | Readings | Assignment (in class) |
 | ------ | ------ | ------------------------ | ----------------- | ---------------------- |
-| 1  | 1 March | First steps | - | [wpa_1](https://github.com/laurafontanesi/psychopy-seminar/blob/main/notebooks/wpa_1.ipynb) |
+| 1  | 1 March | First steps | - | [wpa_1](https://nbviewer.jupyter.org/github/laurafontanesi/psychopy-seminar/blob/main/notebooks/wpa_1.ipynb) |
 | 2  | 8 March | Numpy | [intro numpy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html) | - |
 | 3  | 15 March | Pandas | [intro pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) | - |
 
