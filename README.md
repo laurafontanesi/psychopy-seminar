@@ -9,8 +9,9 @@ New WPAs and readings will be uploaded weekly, so check back regularly.
 | ------ | ------ | ------------------------ | ----------------- | ---------------------- |
 | 1  | 1 March | First steps | - | [wpa_1](https://nbviewer.jupyter.org/github/laurafontanesi/psychopy-seminar/blob/main/notebooks/wpa_1.ipynb) |
 | 2  | 8 March | Numpy | [intro numpy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html) | [wpa_2](https://nbviewer.jupyter.org/github/laurafontanesi/psychopy-seminar/blob/main/notebooks/wpa_2.ipynb) |
-| 3  | 15 March | Pandas | [intro pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) | - |
-| 4  | 22 March | Functions, Loops, If/else statements | - | - |
+| 3  | 15 March | Numpy & Pandas | [intro pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) | [wpa_3](https://nbviewer.jupyter.org/github/laurafontanesi/psychopy-seminar/blob/main/notebooks/wpa_3.ipynb) |
+| 4  | 22 March | Pandas | [intro pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) | - |
+| 5  | 29 March | Functions, Loops, If/else statements | - | - |
 
 ## Important Links
 Software | Link | Description 
@@ -30,7 +31,7 @@ This course is for *anyone who wants to learn how to program experiments* in Psy
 ## Weekly Programming Assignments (WPAs) and final assignment
 During each class, you will work on a series of programming tasks called **Weekly Programming Assignments (WPA)**. You can do this alone, but I encourage you to discuss and/or work with your peers. It is however very important that each student's work is his/her own. Do not turn in any assignments that you did not contribute to or do not fully understand.
 
-By the end of the lesson, you should email your WPA to me to receive credit. While I will keep track of how often you submit your WPAs, I will *not* grade them. You should however try to reply to each of the questions in the assignment. When you are not able to, I will be there to answer any doubt or question about the code. These assignments are meant as a practice to learn-by-doing the class' material.
+By the end of each Friday, you should email your WPA to me to receive credit. While I will keep track of how often you submit your WPAs, I will *not* grade them. You should however try to reply to each of the questions in the assignment. When you are not able to, I will be there to answer any doubt or question about the code. These assignments are meant as a practice to learn-by-doing the class' material.
 
 As a final assignment, you will have to program your own experiment. More info on this will be provided later during the course.
 
