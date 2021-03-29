@@ -11,7 +11,8 @@ New WPAs and readings will be uploaded weekly, so check back regularly.
 | 2  | 8 March | Numpy | [intro numpy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html) | [wpa_2](https://nbviewer.jupyter.org/github/laurafontanesi/psychopy-seminar/blob/main/notebooks/wpa_2.ipynb) |
 | 3  | 15 March | Numpy & Pandas | [intro pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) | [wpa_3](https://nbviewer.jupyter.org/github/laurafontanesi/psychopy-seminar/blob/main/notebooks/wpa_3.ipynb) |
 | 4  | 22 March | Pandas | [intro pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) | - |
-| 5  | 29 March | Functions, Loops, If/else statements | - | - |
+| 5  | 29 March | Functions, Loops, If/else statements | - | [wpa_4](https://nbviewer.jupyter.org/github/laurafontanesi/psychopy-seminar/blob/main/notebooks/wpa_4.ipynb) |
+| 6  | 12 April | Understanding a psychopy script | - | - |
 
 ## Important Links
 Software | Link | Description 
