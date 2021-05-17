@@ -15,7 +15,7 @@ New WPAs and readings will be uploaded weekly, so check back regularly.
 | 6  | 12 April | Understanding a psychopy script | - | - |
 | 7  | 26 April | Psychopy routines | - | [wpa_5](https://nbviewer.jupyter.org/github/laurafontanesi/psychopy-seminar/blob/main/notebooks/wpa_5.ipynb) |
 | 8  | 3 May | Writing a script from scratch | - | [wpa_6](https://nbviewer.jupyter.org/github/laurafontanesi/psychopy-seminar/blob/main/notebooks/wpa_6.ipynb) |
-| 9  | 17 May | Group project 1 | - | – |
+| 9  | 17 May | Group project 1 | - | [wpa_7](https://nbviewer.jupyter.org/github/laurafontanesi/psychopy-seminar/blob/main/notebooks/wpa_7.ipynb) |
 | 10  | 31 May | Group project 2 | - | – |
 
 ## Important Links
