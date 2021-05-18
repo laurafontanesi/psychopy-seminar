@@ -105,11 +105,19 @@ for t in range(n_trials):
         label='choice')
     data = data.append({'rt':rt, 'choice': key, 'trial': t, 'f_A': A_feedback_trials[t],  'f_B': B_feedback_trials[t]}, ignore_index=True) # record the responses
     
-    # third event
-    trial_routine.wait_for_time_limit(
-        components=[A_feedback, B_feedback], 
-        time_seconds=feedback_duration, 
-        label='feedback')
+    if key == 'q':
+        # third event
+        trial_routine.wait_for_time_limit(
+            components=[B_feedback], 
+            time_seconds=feedback_duration, 
+            label='feedback')
+    else:
+        # third event
+        trial_routine.wait_for_time_limit(
+            components=[A_feedback], 
+            time_seconds=feedback_duration, 
+            label='feedback')
+        
 
     #save data to file
     for label in expInfo.keys():
